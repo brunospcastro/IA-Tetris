@@ -25,12 +25,20 @@ to play using the sample client make sure the client pygame window has focus
 
 Directions: arrows
 
+## How to run the agent
+
+open 3 terminals:
+
+`$ python3 server.py`
+
+`$ python3 viewer.py`
+
+`$ python3 student.py`
+
+
 ## Debug Installation
 
 Make sure pygame is properly installed:
 
 python -m pygame.examples.aliens
-
-# Tested on:
-- OSX Big Sur 11.6
 
